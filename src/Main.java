@@ -1,6 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Молодцы, вы справились с GITом!");
+        System.out.println("Код изменился!");
     }
 }
